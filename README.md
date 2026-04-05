@@ -24,4 +24,4 @@ This project analyzes BlinkIT grocery sales data using Power BI to uncover key b
 - Average Sales: $141
 - Number of Items: 8,
 ### Screenshot/Demo
-dashboard:
+dashboard: https://github.com/sameera2109/Blinkit-dashboard/blob/main/snapshot%20of%20blinkit%20dashboard.png
